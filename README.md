@@ -1,2 +1,2 @@
-# html-rendiklerim
+# html-ogrendiklerim
 htmlde öğrendiklerim
